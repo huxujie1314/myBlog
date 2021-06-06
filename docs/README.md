@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/logo.jpg
+heroImage: /img/logo.png
 heroText: 我的主页
 tagline: My homepage
 actionText: 技术文档 →
